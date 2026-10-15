@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Local build and inspection output
+.codex-build-*/
+*.inspect.ndjson
+
+# Editor and Office temporary files
+*.swp
+*.tmp
+~$*
+.~*
+
+# Local dependencies and logs
+node_modules/
+*.log
